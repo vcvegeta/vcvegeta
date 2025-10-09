@@ -85,7 +85,7 @@ I'm a passionate Graduate Student in Applied Data Science at San José State Uni
 </p>
 
 <p align="left">
-  <strong>Containerization and Orchestration:</strong><br>
+  <strong>Operating Systems:</strong><br>
   <img src="https://img.shields.io/badge/Linux%20(CentOS)-262577?style=for-the-badge&logo=centos&logoColor=white" alt="Linux (CentOS)"/>
   <img src="https://img.shields.io/badge/UNIX-333333?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="UNIX"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
