@@ -14,7 +14,7 @@
 
 📍 San Jose, California  | 🎓 Graduate Student at San Jose State University
 
-I'm a passionate Graduate Student in Applied Data Science at San José State University, driven by a curiosity to transform data into impactful solutions. With 2.8 years of professional experience as a DevOps Engineer, I’ve built and optimized scalable CI/CD pipelines, automated cloud infrastructures, and deployed robust applications across distributed systems. Currently, I’m expanding my expertise in Data Engineering, Analytics, Cloud Computing, Machine Learning, and AI, integrating my DevOps background to design end-to-end intelligent systems, from data ingestion to model deployment. I love solving real-world problems through clean architecture, automation, and data-driven innovation. My focus is on building scalable, efficient, and meaningful systems that bridge the gap between DevOps and Data Science.
+I'm a passionate Graduate Student in Applied Data Intelligence at San José State University, driven by a curiosity to transform data into impactful solutions. With 2.8 years of professional experience as a DevOps Engineer, I’ve built and optimized scalable CI/CD pipelines, automated cloud infrastructures, and deployed robust applications across distributed systems. Currently, I’m expanding my expertise in Data Engineering, Analytics, Cloud Computing, Machine Learning, and AI, integrating my DevOps background to design end-to-end intelligent systems, from data ingestion to model deployment. I love solving real-world problems through clean architecture, automation, and data-driven innovation. My focus is on building scalable, efficient, and meaningful systems that bridge the gap between DevOps and Data Science.
 
 ---
 
